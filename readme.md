@@ -1,0 +1,1 @@
+ESP32 as a Companion Computers be used to interface and communicate with ArduPilot on a flight controller using the MAVLink protocol.
